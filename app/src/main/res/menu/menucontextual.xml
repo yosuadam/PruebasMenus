@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemGuardarImagen"
+        android:title="Guardar imagen" />
+    <item
+        android:id="@+id/itemEstablecerFondo"
+        android:title="Establecer como fondo" />
+    <item
+        android:id="@+id/itemCompartirImagen"
+        android:title="Compartir imagen" />
+</menu>
